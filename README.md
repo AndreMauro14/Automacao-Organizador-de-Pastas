@@ -1,4 +1,4 @@
-# Organizador automático de Downloads
+# Organizador automático de Pastas
 
 A pasta **Downloads** sempre vira bagunça: PDF misturado com imagens, instaladores, `.zip` e vários outros tipos de arquivos tudo no mesmo lugar. Com o tempo, eu comecei a perder muito tempo tentando achar um arquivo específico no meio de dezenas de downloads recentes. Esse projeto nasceu exatamente dessa dor: a dificuldade em encontrar arquivos importantes na minha própria máquina.
 
